@@ -1,0 +1,18 @@
+site_name: RobRoy_Moje projekty
+site_author: Robert Stępień
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: light blue
+    
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Pomocnik językowy" : language_helper/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+  - "Titanic": titanic/index.md
