@@ -1,5 +1,5 @@
  
-# Wnikliwa Analiza Danych z Titanica
+# Analiza Danych z Titanica
 
  **01.02.2025**
 
