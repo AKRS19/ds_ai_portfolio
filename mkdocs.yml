@@ -3,6 +3,9 @@ site_author: Robert Stępień
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
 
+repo_name: AKRS19/ds_ai_portfolio
+repo_url: https://github.com/AKRS19/ds_ai_portfolio
+
 theme:
   name: material
   palette:
